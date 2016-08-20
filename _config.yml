@@ -11,7 +11,7 @@ email: nickfolse@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A site about programming technology including Java, C#, HTML5, JavaScript, and other interesting tidbits.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://nf1198.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  nf1198
 

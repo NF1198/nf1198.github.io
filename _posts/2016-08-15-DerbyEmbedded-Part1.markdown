@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Yet another JDBC tutorial - Part 1"
+title:  "Embedded Derby DB with JDBC - Part 1/3"
 date:   2016-08-15 06:14:26 -0600
 categories: java jdbc derby tutorial
 customjs:
  - https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js
 ---
+
+Goto [Part 2].
+
 In this tutorial we use [JDBC] to connect to an [Apache Derby] database. In
 part 2, we will develop several convenience classes for managing connections to
 JDBC databases. In part 3, we will create a [Data Access Object] layer that helps 
@@ -171,5 +174,4 @@ application logic and make it easier to keep track of our business logic.
 [Data Access Object]: https://en.wikipedia.org/wiki/Data_access_object
 [Apache Derby]: https://db.apache.org/derby/manuals/index.html
 [Driver Manager]: https://docs.oracle.com/javase/8/docs/api/java/sql/DriverManager.html
-
-[Part 2]: /part2.html
+[Part 2]: {% post_url 2016-08-19-DerbyEmbedded-Part2 %}
