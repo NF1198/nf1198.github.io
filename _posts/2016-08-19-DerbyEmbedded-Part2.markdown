@@ -7,7 +7,7 @@ customjs:
  - https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js
 ---
 
-Goto [Part 1].
+Goto [Part 1], [Part 3].
 
 In this tutorial we use [JDBC] to connect to an [Apache Derby] database using 
 a [connection pool] provided by [Apache DBCP2]. This tutorial builds on the basics
@@ -265,6 +265,8 @@ final class DerbyDriverLoader {
 }
 {% endhighlight %}
 
+Goto [Part 3].
+
 [connection pool]: https://en.wikipedia.org/wiki/Connection_pool
 [Apache DBCP2]: https://commons.apache.org/proper/commons-dbcp/
 [JDBC]: https://en.wikipedia.org/wiki/Java_Database_Connectivity
@@ -272,3 +274,4 @@ final class DerbyDriverLoader {
 [Apache Derby]: https://db.apache.org/derby/manuals/index.html
 [Driver Manager]: https://docs.oracle.com/javase/8/docs/api/java/sql/DriverManager.html
 [Part 1]: {% post_url 2016-08-15-DerbyEmbedded-Part1 %}
+[Part 3]: {% post_url 2016-08-20-DerbyEmbedded-Part3 %}

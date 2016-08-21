@@ -7,7 +7,7 @@ customjs:
  - https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js
 ---
 
-Goto [Part 2].
+Goto [Part 2], [Part 3].
 
 In this tutorial we use [JDBC] to connect to an [Apache Derby] database. In
 part 2, we will develop several convenience classes for managing connections to
@@ -175,3 +175,4 @@ application logic and make it easier to keep track of our business logic.
 [Apache Derby]: https://db.apache.org/derby/manuals/index.html
 [Driver Manager]: https://docs.oracle.com/javase/8/docs/api/java/sql/DriverManager.html
 [Part 2]: {% post_url 2016-08-19-DerbyEmbedded-Part2 %}
+[Part 3]: {% post_url 2016-08-20-DerbyEmbedded-Part3 %}
