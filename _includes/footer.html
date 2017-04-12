@@ -9,6 +9,11 @@
         <ul class="contact-list">
           <li>{{ site.title }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li>
+            <a href="https://github.com/NF1198/nf1198.github.io/raw/master/9662FE3B.asc">
+              <span style="border-radius:3px; background-color:#157efb; padding: 2px 3px; color:white; font-weight:bold; font-size: x-small;">GPG KEY: 9662FE3B</span>
+            </a>
+          </li>
         </ul>
       </div>
 
@@ -18,9 +23,7 @@
           <li>
             {% include icon-github.html username=site.github_username %}
           </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
+          {% endif %} {% if site.twitter_username %}
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
