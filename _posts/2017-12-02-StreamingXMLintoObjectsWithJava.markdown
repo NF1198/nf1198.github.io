@@ -8,7 +8,7 @@ customjs:
 ---
 
 # Streaming XML into Objects with Java
-Read this article. You’ll never need to hand-code another XML parser.
+Read this article. You’ll never hand-code another XML parser.
 
 If you’ve ever worked with XML in Java, you’re probably familiar with the StAX and DOM APIs for XML parsing. The first time I encountered these APIs my heart sunk as I thought to myself, “but I just want to parse a simple document”. I certainly did not want to spend my afternoons wading though API docs trying to figure out what to do with a StartElement.
 
