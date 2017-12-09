@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Streaming XML Objects into Java"
+title:  "Streaming XML into Objects with Java"
 date:   2017-12-02 17:01:00 -0600
 categories: Java XML
 customjs:
