@@ -30,7 +30,7 @@ found the ColorHug2 sooner!
 
 Using [DisplayCal](https://displaycal.net/), I generated the following calibration curves to correct the display.
 
-![NT900X4D Calibration Curves](/assets/CalibrationCurves-NT900X4D.png)
+![NT900X4D Calibration Curves](/assets/nt900x4d-color/CalibrationCurves-NT900X4D.png)
 
 *NT900X4D Calibration Curves*
 
