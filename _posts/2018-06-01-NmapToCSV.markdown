@@ -11,7 +11,7 @@ customjs:
 allows you to scan entire networks and identify rogue hosts and can often yield
 unexpected results. 
 
-By default Nmap stores scan results in an XML format and doesn't offer any post-processing
+By default, Nmap stores scan results in an XML format and doesn't offer any post-processing
 tools. You're out-of-luck if you need to quickly process a batch of scan results or
 merge datasets for analysis.
 
