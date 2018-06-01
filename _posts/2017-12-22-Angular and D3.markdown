@@ -2,7 +2,7 @@
 layout: post
 title:  "Using D3 with Angular"
 date:   2017-12-22 13:40:00 -0600
-categories: Angular, D3, TypeScript
+categories: Angular D3 TypeScript
 customjs:
  - https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js
 ---

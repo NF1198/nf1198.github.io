@@ -2,7 +2,7 @@
 layout: post
 title:  "Fixing Laptop Color with ColorHug2"
 date:   2017-10-08 22:24:00 -0600
-categories: ColorHug2, ICC, calibration
+categories: ColorHug2 ICC calibration
 customjs:
  - https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js
 ---
